@@ -84,7 +84,7 @@ Real-world app features built during my Flutter Developer internship.
 - 🔥 Firebase-backed functionality (auth / database)
 
 **Tech:** Flutter · Dart · Firebase · REST APIs
-🔗 [View Repository](#) <!-- replace # with your repo link -->
+🔗 [https://github.com/zahid-meo/luxecart-app](#) <!-- replace # with your repo link -->
 
 ---
 
