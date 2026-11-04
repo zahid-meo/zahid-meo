@@ -63,19 +63,6 @@ I'm passionate about Mobile App Development, Web Development, and Software Devel
 
 ## 📂 Featured Projects
 
-### 🤖 Jarvis — AI Voice Assistant
-A Python-based voice assistant inspired by Iron Man's J.A.R.V.I.S., with a custom **Stark Industries-style HUD interface**.
-
-- 🎙️ Voice-command driven assistant built in **Python**
-- 🖥️ Futuristic HUD UI with a central animated orb/ring display
-- 📊 System monitor, weather, news feed, and activity log panels
-- 📁 File upload support and a command input bar
-
-**Tech:** Python · Voice Recognition · Custom HUD UI
-🔗 [View Repository](#) <!-- replace # with your repo link -->
-
----
-
 ### 📱 Flutter Mobile App *(Internship Work)*
 Real-world app features built during my Flutter Developer internship.
 
